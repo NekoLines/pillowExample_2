@@ -1,6 +1,6 @@
 # pillowExample_2
 
-![](2022-08.png)
+![](2022-8.png)
 
 通过Pillow模块和Python3自动生成每周值班表的小栗子。具体的说明请参考[如何DIY一个每月工作日历图生成器](https://0w0.in/2022/07/rhdygmygzrltscq/)
 

@@ -1,0 +1,2 @@
+# pillowExample_2
+使用Pillow生成日期图片的简单例子2
